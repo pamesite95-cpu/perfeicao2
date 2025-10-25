@@ -50,7 +50,7 @@ export default function Produtos() {
               {produto.nome}
             </h3>
             <p className="text-gray-600 mb-4 text-center">{produto.descricao}</p>
-            <a href="https://wa.me/5591988534110?text=Olá! Gostaria de saber mais sobre o {produto.nome}" target="_blank" rel="noopener" className="px-6 py-2 bg-pink-600 text-white rounded-full hover:bg-pink-700 transition">Pedir pelo WhatsApp</a>
+            <a href="https://wa.me/5591991795010?text=Olá! Gostaria de saber mais sobre o {produto.nome}" target="_blank" rel="noopener" className="px-6 py-2 bg-pink-600 text-white rounded-full hover:bg-pink-700 transition">Pedir pelo WhatsApp</a>
           </div>
         ))}
       </div>
