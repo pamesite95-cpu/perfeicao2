@@ -1,4 +1,39 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Perfeição
+
+Site Next.js simples com catálogo de produtos (semi-joias).
+
+## Sobre
+
+Este repositório contém um site criado com Next.js. É uma página de demonstração com componentes para hero, produtos, depoimentos e rodapé.
+
+## Como rodar localmente
+
+1. Instale dependências:
+
+```bash
+npm install
+```
+
+2. Rode em modo de desenvolvimento:
+
+```bash
+npm run dev
+```
+
+3. Abra http://localhost:3000 no navegador.
+
+## Estrutura
+
+- `app/` - código do Next.js (páginas e componentes)
+- `public/` - ativos públicos (imagens)
+
+## Contribuição
+
+Sinta-se à vontade para abrir issues ou pull requests.
+
+## Licença
+
+Licença: sem licença definida. Adicione um `LICENSE` se desejar.This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
 
