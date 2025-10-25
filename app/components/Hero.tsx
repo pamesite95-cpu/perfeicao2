@@ -2,7 +2,7 @@ import Image from 'next/image';
 
 export default function Hero() {
   return (
-    <section 
+    <section id="home"
       className="relative flex flex-col items-center justify-center h-[70vh] text-center"
       style={{
   backgroundImage: "url('/joinha.jpg')", // Imagem joinha da pasta public

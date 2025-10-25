@@ -33,7 +33,7 @@ const produtos = [
 
 export default function Produtos() {
   return (
-    <section className="py-16 px-4 bg-pink-50">
+  <section id="produtos" className="py-16 px-4 bg-pink-100">
   <h2 className="text-3xl md:text-4xl font-bold mb-10 text-center" style={{ color: '#808000' }}>Nossos Produtos</h2>
       <div className="grid gap-8 md:grid-cols-2 lg:grid-cols-4 max-w-6xl mx-auto">
         {produtos.map((produto, idx) => (

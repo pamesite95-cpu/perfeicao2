@@ -17,7 +17,7 @@ const depoimentos = [
 
 export default function Depoimentos() {
   return (
-    <section style={{ padding: '2rem 0', background: '#f9f9f9' }}>
+    <section id="depoimentos" style={{ padding: '2rem 0', background: '#f9f9f9' }}>
       <h2 className="text-3xl md:text-4xl font-bold mb-10 text-center text-pink-700">Depoimentos</h2>
       <div style={{ display: 'flex', justifyContent: 'center', gap: '2rem', flexWrap: 'wrap' }}>
         {depoimentos.map((dep, idx) => (
