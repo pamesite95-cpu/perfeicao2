@@ -2,7 +2,7 @@ const produtos = [
   {
     nome: 'Anel Feminino',
     descricao: 'Anel delicado com design moderno, perfeito para todas as ocasiões.',
-    imagem: '/anel.jpg',
+    imagem: '/aneld.jpg',
   },
   {
     nome: 'Brinco Dourado',
@@ -12,7 +12,7 @@ const produtos = [
   {
     nome: 'Colar Dourado',
     descricao: 'Colar com pingente exclusivo, trazendo charme e elegância.',
-    imagem: '/cordaozinho.png',
+    imagem: '/colardourado.jpg',
   },
   {
     nome: 'Pulseira Fina',
@@ -27,7 +27,7 @@ const produtos = [
   {
     nome: 'Brinco Prata',
     descricao: 'Brinco em prata de alta qualidade, elegante e versátil para todas as ocasiões.',
-    imagem: '/brinco-prata.webp'
+    imagem: '/brincop.jpg'
   },
 ];
 
